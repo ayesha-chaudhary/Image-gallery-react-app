@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 const ImageGallery = () => {
  
   const imageUrls = [
-    'https://picsum.photos/id/237/300/300',
-    'https://picsum.photos/seed/picsum/300/300',
-    'https://picsum.photos/300/300',
+    "https://picsum.photos/id/237/300/300",
+    "https://picsum.photos/seed/picsum/300/300",
+    "https://picsum.photos/300/300",
     "https://picsum.photos/id/100/300/300",
     "https://picsum.photos/id/101/300/300",
     "https://picsum.photos/id/102/300/300",
