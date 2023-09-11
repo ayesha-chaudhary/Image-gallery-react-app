@@ -1,4 +1,4 @@
-# Image Gallery React App with swipe gestures
+# Image Gallery React App with swipe gesture
 
 This is a single-page React web application that displays a gallery of images and allows navigation between them.
 
@@ -35,7 +35,3 @@ If you want to customize this application with your own set of images, follow th
 3. Save your changes and restart the development server by running `npm start`.
 
 4. The gallery will now display your custom set of images.
-
-## Dependencies
-
-This project uses React as its main framework and does not rely on any additional external libraries for basic functionality.
